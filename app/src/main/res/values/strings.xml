@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="info_text">You are here</string>
+    <string name="second_text">OK</string>
+</resources>
